@@ -1,9 +1,11 @@
 # picoDeck
 
-A Crazy of Mine of using a Raspberry Pi Pico + a keyboard kit to make a basic streamdeck type utility. 
+A Crazy idea of Mine of using a Raspberry Pi Pico + a keyboard kit to make a basic streamdeck type utility. 
 
 - Initially start with just macro keyboards which can be set-up with stream deck
-- Hardware : [https://shop.pimoroni.com/products/pico-rgb-keypad-base](https://shop.pimoroni.com/products/pico-rgb-keypad-base)
+- Hardware 
+  - Pico : [https://www.raspberrypi.org/products/raspberry-pi-pico/](https://www.raspberrypi.org/products/raspberry-pi-pico/)
+  - Keyboard : [https://shop.pimoroni.com/products/pico-rgb-keypad-base](https://shop.pimoroni.com/products/pico-rgb-keypad-base)
 - Build to work with a basic main.py + a settings file
 
 
