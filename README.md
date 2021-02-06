@@ -1,4 +1,4 @@
-# picoDeck
+picoDeck
 
 A Crazy idea of Mine of using a Raspberry Pi Pico + a keyboard kit to make a basic streamdeck type utility. 
 
@@ -14,3 +14,13 @@ A Crazy idea of Mine of using a Raspberry Pi Pico + a keyboard kit to make a bas
   - Run windows explorer 
   - Open a terminal window
   - Any other ideas?
+
+
+Instructions :
+
+Assemble the Pico + Keyboard. You will need to solder the legs on if they don't already come soldered. Then set the pico up for Python using the instructions here : https://github.com/pimoroni/pimoroni-pico/blob/main/setting-up-micropython.md
+
+
+References : 
+
+Pimoroni Pico - https://github.com/pimoroni/pimoroni-pico
