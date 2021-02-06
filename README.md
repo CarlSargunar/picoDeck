@@ -16,6 +16,8 @@ A Crazy idea of Mine of using a Raspberry Pi Pico + a keyboard kit to make a bas
   - Any other ideas?
 
 
+## Micropython
+
 Instructions :
 
 Assemble the Pico + Keyboard. You will need to solder the legs on if they don't already come soldered. Then set the pico up for Python using the instructions here : https://github.com/pimoroni/pimoroni-pico/blob/main/setting-up-micropython.md
@@ -24,3 +26,19 @@ Assemble the Pico + Keyboard. You will need to solder the legs on if they don't 
 References : 
 
 Pimoroni Pico - https://github.com/pimoroni/pimoroni-pico
+
+
+## C++
+
+8.2.1. Installing the Toolchain
+
+To build you will need to install some extra tools. Follow instructions in the SDK to get these set-up
+
+
+- [ARM GCC compiler](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
+  - When installing, choose the option to add the path to the compiler to the env variable
+- [CMake](https://cmake.org/download/)
+  - When installing, choose the option to add the path to the compiler to the env variable
+- [Build Tools for Visual Studio 2019](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
+- [Python 3.7](https://www.python.org/downloads/windows/)
+- Git
