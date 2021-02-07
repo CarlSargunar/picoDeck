@@ -16,6 +16,16 @@ A Crazy idea of Mine of using a Raspberry Pi Pico + a keyboard kit to make a bas
   - Any other ideas?
 
 
+
+
+
+
+
+Lots of help from this video : [Getting started with C/C++ & MicroPython on Raspberry Pi Pico on Windows - NotEnoughTECH](https://www.youtube.com/watch?v=5l3W-brnO7E)
+
+[Article](https://notenoughtech.com/featured/c-c-and-micropython-sdk-for-raspberry-pi-pico-on-windows/)
+
+
 ## Micropython
 
 Instructions :
@@ -26,6 +36,11 @@ Assemble the Pico + Keyboard. You will need to solder the legs on if they don't 
 References : 
 
 Pimoroni Pico - https://github.com/pimoroni/pimoroni-pico
+
+
+
+
+
 
 
 ## C++
